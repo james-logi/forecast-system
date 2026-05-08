@@ -1,0 +1,9 @@
+streamlit
+pandas
+openpyxl
+plotly
+statsmodels
+prophet
+xgboost
+scikit-learn
+python-docx
